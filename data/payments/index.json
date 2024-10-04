@@ -1,0 +1,1602 @@
+[
+  {
+    "paymentId": "1",
+    "timestamp": 1727763114,
+    "amount": 459.00,
+    "currency": "HUF",
+    "paymentType": "APPLE_PAY",
+    "status": "PENDING"
+  },
+  {
+    "paymentId": "2",
+    "timestamp": 1727759356,
+    "amount": 427.00,
+    "currency": "EUR",
+    "paymentType": "GOOGLE_PAY",
+    "status": "CANCELED"
+  },
+  {
+    "paymentId": "3",
+    "timestamp": 1727779718,
+    "amount": 747.00,
+    "currency": "CZK",
+    "paymentType": "GOOGLE_PAY",
+    "status": "CANCELED"
+  },
+  {
+    "paymentId": "4",
+    "timestamp": 1727765621,
+    "amount": 143.00,
+    "currency": "CZK",
+    "paymentType": "GOOGLE_PAY",
+    "status": "PENDING"
+  },
+  {
+    "paymentId": "5",
+    "timestamp": 1727761730,
+    "amount": 979.00,
+    "currency": "EUR",
+    "paymentType": "CARD_ONLINE",
+    "status": "PENDING"
+  },
+  {
+    "paymentId": "6",
+    "timestamp": 1727770562,
+    "amount": 768.00,
+    "currency": "CZK",
+    "paymentType": "APPLE_PAY",
+    "status": "PENDING"
+  },
+  {
+    "paymentId": "7",
+    "timestamp": 1727768044,
+    "amount": 975.00,
+    "currency": "EUR",
+    "paymentType": "BANK_TRANSFER",
+    "status": "SUCCESS"
+  },
+  {
+    "paymentId": "8",
+    "timestamp": 1727784807,
+    "amount": 465.00,
+    "currency": "EUR",
+    "paymentType": "CARD_ONLINE",
+    "status": "PENDING"
+  },
+  {
+    "paymentId": "9",
+    "timestamp": 1727777755,
+    "amount": 138.00,
+    "currency": "USD",
+    "paymentType": "CARD_ONLINE",
+    "status": "CANCELED"
+  },
+  {
+    "paymentId": "10",
+    "timestamp": 1727786484,
+    "amount": 594.00,
+    "currency": "CZK",
+    "paymentType": "BANK_TRANSFER",
+    "status": "PENDING"
+  },
+  {
+    "paymentId": "11",
+    "timestamp": 1727771446,
+    "amount": 281.00,
+    "currency": "USD",
+    "paymentType": "GOOGLE_PAY",
+    "status": "CANCELED"
+  },
+  {
+    "paymentId": "12",
+    "timestamp": 1727759492,
+    "amount": 53.00,
+    "currency": "HUF",
+    "paymentType": "APPLE_PAY",
+    "status": "PENDING"
+  },
+  {
+    "paymentId": "13",
+    "timestamp": 1727759214,
+    "amount": 501.00,
+    "currency": "HUF",
+    "paymentType": "CARD_ONLINE",
+    "status": "CANCELED"
+  },
+  {
+    "paymentId": "14",
+    "timestamp": 1727776829,
+    "amount": 842.00,
+    "currency": "EUR",
+    "paymentType": "CARD_ONLINE",
+    "status": "CANCELED"
+  },
+  {
+    "paymentId": "15",
+    "timestamp": 1727755456,
+    "amount": 195.00,
+    "currency": "CZK",
+    "paymentType": "GOOGLE_PAY",
+    "status": "PENDING"
+  },
+  {
+    "paymentId": "16",
+    "timestamp": 1727768533,
+    "amount": 997.00,
+    "currency": "EUR",
+    "paymentType": "APPLE_PAY",
+    "status": "PENDING"
+  },
+  {
+    "paymentId": "17",
+    "timestamp": 1727765942,
+    "amount": 133.00,
+    "currency": "HUF",
+    "paymentType": "BANK_TRANSFER",
+    "status": "CANCELED"
+  },
+  {
+    "paymentId": "18",
+    "timestamp": 1727760649,
+    "amount": 565.00,
+    "currency": "HUF",
+    "paymentType": "BANK_TRANSFER",
+    "status": "SUCCESS"
+  },
+  {
+    "paymentId": "19",
+    "timestamp": 1727787174,
+    "amount": 48.00,
+    "currency": "USD",
+    "paymentType": "CARD_ONLINE",
+    "status": "SUCCESS"
+  },
+  {
+    "paymentId": "20",
+    "timestamp": 1727766054,
+    "amount": 653.00,
+    "currency": "EUR",
+    "paymentType": "BANK_TRANSFER",
+    "status": "SUCCESS"
+  },
+  {
+    "paymentId": "21",
+    "timestamp": 1727785263,
+    "amount": 589.00,
+    "currency": "USD",
+    "paymentType": "GOOGLE_PAY",
+    "status": "PENDING"
+  },
+  {
+    "paymentId": "22",
+    "timestamp": 1727785858,
+    "amount": 909.00,
+    "currency": "USD",
+    "paymentType": "GOOGLE_PAY",
+    "status": "PENDING"
+  },
+  {
+    "paymentId": "23",
+    "timestamp": 1727785409,
+    "amount": 186.00,
+    "currency": "CZK",
+    "paymentType": "BANK_TRANSFER",
+    "status": "CANCELED"
+  },
+  {
+    "paymentId": "24",
+    "timestamp": 1727757569,
+    "amount": 72.00,
+    "currency": "EUR",
+    "paymentType": "CARD_ONLINE",
+    "status": "PENDING"
+  },
+  {
+    "paymentId": "25",
+    "timestamp": 1727777044,
+    "amount": 273.00,
+    "currency": "EUR",
+    "paymentType": "CARD_ONLINE",
+    "status": "SUCCESS"
+  },
+  {
+    "paymentId": "26",
+    "timestamp": 1727777683,
+    "amount": 638.00,
+    "currency": "CZK",
+    "paymentType": "APPLE_PAY",
+    "status": "PENDING"
+  },
+  {
+    "paymentId": "27",
+    "timestamp": 1727762349,
+    "amount": 30.00,
+    "currency": "HUF",
+    "paymentType": "APPLE_PAY",
+    "status": "SUCCESS"
+  },
+  {
+    "paymentId": "28",
+    "timestamp": 1727779507,
+    "amount": 145.00,
+    "currency": "CZK",
+    "paymentType": "CARD_ONLINE",
+    "status": "PENDING"
+  },
+  {
+    "paymentId": "29",
+    "timestamp": 1727784287,
+    "amount": 651.00,
+    "currency": "CZK",
+    "paymentType": "BANK_TRANSFER",
+    "status": "SUCCESS"
+  },
+  {
+    "paymentId": "30",
+    "timestamp": 1727780328,
+    "amount": 418.00,
+    "currency": "USD",
+    "paymentType": "CARD_ONLINE",
+    "status": "PENDING"
+  },
+  {
+    "paymentId": "31",
+    "timestamp": 1727770310,
+    "amount": 126.00,
+    "currency": "HUF",
+    "paymentType": "CARD_ONLINE",
+    "status": "SUCCESS"
+  },
+  {
+    "paymentId": "32",
+    "timestamp": 1727780421,
+    "amount": 963.00,
+    "currency": "USD",
+    "paymentType": "BANK_TRANSFER",
+    "status": "PENDING"
+  },
+  {
+    "paymentId": "33",
+    "timestamp": 1727781580,
+    "amount": 847.00,
+    "currency": "EUR",
+    "paymentType": "APPLE_PAY",
+    "status": "CANCELED"
+  },
+  {
+    "paymentId": "34",
+    "timestamp": 1727772650,
+    "amount": 644.00,
+    "currency": "EUR",
+    "paymentType": "BANK_TRANSFER",
+    "status": "PENDING"
+  },
+  {
+    "paymentId": "35",
+    "timestamp": 1727782950,
+    "amount": 669.00,
+    "currency": "CZK",
+    "paymentType": "CARD_ONLINE",
+    "status": "CANCELED"
+  },
+  {
+    "paymentId": "36",
+    "timestamp": 1727764355,
+    "amount": 800.00,
+    "currency": "EUR",
+    "paymentType": "APPLE_PAY",
+    "status": "CANCELED"
+  },
+  {
+    "paymentId": "37",
+    "timestamp": 1727785685,
+    "amount": 88.00,
+    "currency": "EUR",
+    "paymentType": "BANK_TRANSFER",
+    "status": "PENDING"
+  },
+  {
+    "paymentId": "38",
+    "timestamp": 1727778758,
+    "amount": 887.00,
+    "currency": "HUF",
+    "paymentType": "GOOGLE_PAY",
+    "status": "SUCCESS"
+  },
+  {
+    "paymentId": "39",
+    "timestamp": 1727773095,
+    "amount": 718.00,
+    "currency": "CZK",
+    "paymentType": "CARD_ONLINE",
+    "status": "PENDING"
+  },
+  {
+    "paymentId": "40",
+    "timestamp": 1727770360,
+    "amount": 708.00,
+    "currency": "CZK",
+    "paymentType": "APPLE_PAY",
+    "status": "PENDING"
+  },
+  {
+    "paymentId": "41",
+    "timestamp": 1727769526,
+    "amount": 600.00,
+    "currency": "EUR",
+    "paymentType": "APPLE_PAY",
+    "status": "CANCELED"
+  },
+  {
+    "paymentId": "42",
+    "timestamp": 1727781991,
+    "amount": 23.00,
+    "currency": "EUR",
+    "paymentType": "APPLE_PAY",
+    "status": "SUCCESS"
+  },
+  {
+    "paymentId": "43",
+    "timestamp": 1727757798,
+    "amount": 324.00,
+    "currency": "CZK",
+    "paymentType": "GOOGLE_PAY",
+    "status": "SUCCESS"
+  },
+  {
+    "paymentId": "44",
+    "timestamp": 1727786478,
+    "amount": 962.00,
+    "currency": "CZK",
+    "paymentType": "CARD_ONLINE",
+    "status": "SUCCESS"
+  },
+  {
+    "paymentId": "45",
+    "timestamp": 1727772777,
+    "amount": 987.00,
+    "currency": "EUR",
+    "paymentType": "CARD_ONLINE",
+    "status": "SUCCESS"
+  },
+  {
+    "paymentId": "46",
+    "timestamp": 1727769974,
+    "amount": 748.00,
+    "currency": "HUF",
+    "paymentType": "CARD_ONLINE",
+    "status": "CANCELED"
+  },
+  {
+    "paymentId": "47",
+    "timestamp": 1727777853,
+    "amount": 584.00,
+    "currency": "CZK",
+    "paymentType": "CARD_ONLINE",
+    "status": "CANCELED"
+  },
+  {
+    "paymentId": "48",
+    "timestamp": 1727762034,
+    "amount": 260.00,
+    "currency": "EUR",
+    "paymentType": "GOOGLE_PAY",
+    "status": "SUCCESS"
+  },
+  {
+    "paymentId": "49",
+    "timestamp": 1727783082,
+    "amount": 265.00,
+    "currency": "HUF",
+    "paymentType": "APPLE_PAY",
+    "status": "SUCCESS"
+  },
+  {
+    "paymentId": "50",
+    "timestamp": 1727779680,
+    "amount": 590.00,
+    "currency": "HUF",
+    "paymentType": "CARD_ONLINE",
+    "status": "PENDING"
+  },
+  {
+    "paymentId": "51",
+    "timestamp": 1727779014,
+    "amount": 649.00,
+    "currency": "EUR",
+    "paymentType": "GOOGLE_PAY",
+    "status": "SUCCESS"
+  },
+  {
+    "paymentId": "52",
+    "timestamp": 1727783757,
+    "amount": 118.00,
+    "currency": "USD",
+    "paymentType": "BANK_TRANSFER",
+    "status": "CANCELED"
+  },
+  {
+    "paymentId": "53",
+    "timestamp": 1727781107,
+    "amount": 194.00,
+    "currency": "EUR",
+    "paymentType": "APPLE_PAY",
+    "status": "PENDING"
+  },
+  {
+    "paymentId": "54",
+    "timestamp": 1727778640,
+    "amount": 452.00,
+    "currency": "CZK",
+    "paymentType": "APPLE_PAY",
+    "status": "CANCELED"
+  },
+  {
+    "paymentId": "55",
+    "timestamp": 1727755358,
+    "amount": 897.00,
+    "currency": "HUF",
+    "paymentType": "BANK_TRANSFER",
+    "status": "CANCELED"
+  },
+  {
+    "paymentId": "56",
+    "timestamp": 1727760395,
+    "amount": 660.00,
+    "currency": "CZK",
+    "paymentType": "GOOGLE_PAY",
+    "status": "CANCELED"
+  },
+  {
+    "paymentId": "57",
+    "timestamp": 1727785600,
+    "amount": 822.00,
+    "currency": "CZK",
+    "paymentType": "CARD_ONLINE",
+    "status": "SUCCESS"
+  },
+  {
+    "paymentId": "58",
+    "timestamp": 1727775535,
+    "amount": 483.00,
+    "currency": "EUR",
+    "paymentType": "CARD_ONLINE",
+    "status": "CANCELED"
+  },
+  {
+    "paymentId": "59",
+    "timestamp": 1727761567,
+    "amount": 9.00,
+    "currency": "HUF",
+    "paymentType": "GOOGLE_PAY",
+    "status": "PENDING"
+  },
+  {
+    "paymentId": "60",
+    "timestamp": 1727762679,
+    "amount": 847.00,
+    "currency": "USD",
+    "paymentType": "APPLE_PAY",
+    "status": "CANCELED"
+  },
+  {
+    "paymentId": "61",
+    "timestamp": 1727767372,
+    "amount": 497.00,
+    "currency": "HUF",
+    "paymentType": "APPLE_PAY",
+    "status": "PENDING"
+  },
+  {
+    "paymentId": "62",
+    "timestamp": 1727766954,
+    "amount": 805.00,
+    "currency": "HUF",
+    "paymentType": "APPLE_PAY",
+    "status": "PENDING"
+  },
+  {
+    "paymentId": "63",
+    "timestamp": 1727761380,
+    "amount": 957.00,
+    "currency": "CZK",
+    "paymentType": "GOOGLE_PAY",
+    "status": "SUCCESS"
+  },
+  {
+    "paymentId": "64",
+    "timestamp": 1727773468,
+    "amount": 771.00,
+    "currency": "USD",
+    "paymentType": "GOOGLE_PAY",
+    "status": "PENDING"
+  },
+  {
+    "paymentId": "65",
+    "timestamp": 1727759889,
+    "amount": 918.00,
+    "currency": "EUR",
+    "paymentType": "CARD_ONLINE",
+    "status": "CANCELED"
+  },
+  {
+    "paymentId": "66",
+    "timestamp": 1727782443,
+    "amount": 198.00,
+    "currency": "HUF",
+    "paymentType": "APPLE_PAY",
+    "status": "SUCCESS"
+  },
+  {
+    "paymentId": "67",
+    "timestamp": 1727770952,
+    "amount": 432.00,
+    "currency": "EUR",
+    "paymentType": "CARD_ONLINE",
+    "status": "PENDING"
+  },
+  {
+    "paymentId": "68",
+    "timestamp": 1727765572,
+    "amount": 778.00,
+    "currency": "USD",
+    "paymentType": "GOOGLE_PAY",
+    "status": "SUCCESS"
+  },
+  {
+    "paymentId": "69",
+    "timestamp": 1727773258,
+    "amount": 191.00,
+    "currency": "CZK",
+    "paymentType": "BANK_TRANSFER",
+    "status": "PENDING"
+  },
+  {
+    "paymentId": "70",
+    "timestamp": 1727765726,
+    "amount": 384.00,
+    "currency": "HUF",
+    "paymentType": "GOOGLE_PAY",
+    "status": "SUCCESS"
+  },
+  {
+    "paymentId": "71",
+    "timestamp": 1727772838,
+    "amount": 454.00,
+    "currency": "HUF",
+    "paymentType": "APPLE_PAY",
+    "status": "SUCCESS"
+  },
+  {
+    "paymentId": "72",
+    "timestamp": 1727779579,
+    "amount": 921.00,
+    "currency": "EUR",
+    "paymentType": "GOOGLE_PAY",
+    "status": "PENDING"
+  },
+  {
+    "paymentId": "73",
+    "timestamp": 1727773748,
+    "amount": 815.00,
+    "currency": "USD",
+    "paymentType": "CARD_ONLINE",
+    "status": "SUCCESS"
+  },
+  {
+    "paymentId": "74",
+    "timestamp": 1727783596,
+    "amount": 390.00,
+    "currency": "USD",
+    "paymentType": "BANK_TRANSFER",
+    "status": "CANCELED"
+  },
+  {
+    "paymentId": "75",
+    "timestamp": 1727761049,
+    "amount": 568.00,
+    "currency": "CZK",
+    "paymentType": "APPLE_PAY",
+    "status": "PENDING"
+  },
+  {
+    "paymentId": "76",
+    "timestamp": 1727772300,
+    "amount": 545.00,
+    "currency": "USD",
+    "paymentType": "CARD_ONLINE",
+    "status": "CANCELED"
+  },
+  {
+    "paymentId": "77",
+    "timestamp": 1727761607,
+    "amount": 578.00,
+    "currency": "EUR",
+    "paymentType": "GOOGLE_PAY",
+    "status": "SUCCESS"
+  },
+  {
+    "paymentId": "78",
+    "timestamp": 1727776066,
+    "amount": 763.00,
+    "currency": "USD",
+    "paymentType": "GOOGLE_PAY",
+    "status": "CANCELED"
+  },
+  {
+    "paymentId": "79",
+    "timestamp": 1727786108,
+    "amount": 763.00,
+    "currency": "EUR",
+    "paymentType": "BANK_TRANSFER",
+    "status": "SUCCESS"
+  },
+  {
+    "paymentId": "80",
+    "timestamp": 1727760130,
+    "amount": 279.00,
+    "currency": "HUF",
+    "paymentType": "APPLE_PAY",
+    "status": "CANCELED"
+  },
+  {
+    "paymentId": "81",
+    "timestamp": 1727783360,
+    "amount": 467.00,
+    "currency": "CZK",
+    "paymentType": "APPLE_PAY",
+    "status": "CANCELED"
+  },
+  {
+    "paymentId": "82",
+    "timestamp": 1727765259,
+    "amount": 859.00,
+    "currency": "USD",
+    "paymentType": "GOOGLE_PAY",
+    "status": "SUCCESS"
+  },
+  {
+    "paymentId": "83",
+    "timestamp": 1727770730,
+    "amount": 288.00,
+    "currency": "USD",
+    "paymentType": "BANK_TRANSFER",
+    "status": "CANCELED"
+  },
+  {
+    "paymentId": "84",
+    "timestamp": 1727765800,
+    "amount": 852.00,
+    "currency": "USD",
+    "paymentType": "CARD_ONLINE",
+    "status": "CANCELED"
+  },
+  {
+    "paymentId": "85",
+    "timestamp": 1727780250,
+    "amount": 260.00,
+    "currency": "CZK",
+    "paymentType": "CARD_ONLINE",
+    "status": "CANCELED"
+  },
+  {
+    "paymentId": "86",
+    "timestamp": 1727769392,
+    "amount": 128.00,
+    "currency": "USD",
+    "paymentType": "CARD_ONLINE",
+    "status": "CANCELED"
+  },
+  {
+    "paymentId": "87",
+    "timestamp": 1727784254,
+    "amount": 716.00,
+    "currency": "EUR",
+    "paymentType": "BANK_TRANSFER",
+    "status": "CANCELED"
+  },
+  {
+    "paymentId": "88",
+    "timestamp": 1727765128,
+    "amount": 315.00,
+    "currency": "HUF",
+    "paymentType": "BANK_TRANSFER",
+    "status": "CANCELED"
+  },
+  {
+    "paymentId": "89",
+    "timestamp": 1727764368,
+    "amount": 281.00,
+    "currency": "HUF",
+    "paymentType": "GOOGLE_PAY",
+    "status": "SUCCESS"
+  },
+  {
+    "paymentId": "90",
+    "timestamp": 1727782302,
+    "amount": 941.00,
+    "currency": "EUR",
+    "paymentType": "BANK_TRANSFER",
+    "status": "SUCCESS"
+  },
+  {
+    "paymentId": "91",
+    "timestamp": 1727760020,
+    "amount": 384.00,
+    "currency": "CZK",
+    "paymentType": "CARD_ONLINE",
+    "status": "CANCELED"
+  },
+  {
+    "paymentId": "92",
+    "timestamp": 1727764846,
+    "amount": 937.00,
+    "currency": "HUF",
+    "paymentType": "CARD_ONLINE",
+    "status": "PENDING"
+  },
+  {
+    "paymentId": "93",
+    "timestamp": 1727765403,
+    "amount": 220.00,
+    "currency": "HUF",
+    "paymentType": "GOOGLE_PAY",
+    "status": "SUCCESS"
+  },
+  {
+    "paymentId": "94",
+    "timestamp": 1727785728,
+    "amount": 502.00,
+    "currency": "EUR",
+    "paymentType": "APPLE_PAY",
+    "status": "PENDING"
+  },
+  {
+    "paymentId": "95",
+    "timestamp": 1727769797,
+    "amount": 297.00,
+    "currency": "EUR",
+    "paymentType": "BANK_TRANSFER",
+    "status": "SUCCESS"
+  },
+  {
+    "paymentId": "96",
+    "timestamp": 1727782117,
+    "amount": 343.00,
+    "currency": "HUF",
+    "paymentType": "CARD_ONLINE",
+    "status": "PENDING"
+  },
+  {
+    "paymentId": "97",
+    "timestamp": 1727777401,
+    "amount": 353.00,
+    "currency": "CZK",
+    "paymentType": "APPLE_PAY",
+    "status": "SUCCESS"
+  },
+  {
+    "paymentId": "98",
+    "timestamp": 1727761599,
+    "amount": 277.00,
+    "currency": "USD",
+    "paymentType": "APPLE_PAY",
+    "status": "PENDING"
+  },
+  {
+    "paymentId": "99",
+    "timestamp": 1727773933,
+    "amount": 336.00,
+    "currency": "USD",
+    "paymentType": "CARD_ONLINE",
+    "status": "CANCELED"
+  },
+  {
+    "paymentId": "100",
+    "timestamp": 1727758520,
+    "amount": 649.00,
+    "currency": "EUR",
+    "paymentType": "CARD_ONLINE",
+    "status": "PENDING"
+  },
+  {
+    "paymentId": "101",
+    "timestamp": 1727771043,
+    "amount": 898.00,
+    "currency": "EUR",
+    "paymentType": "CARD_ONLINE",
+    "status": "SUCCESS"
+  },
+  {
+    "paymentId": "102",
+    "timestamp": 1727769864,
+    "amount": 445.00,
+    "currency": "CZK",
+    "paymentType": "GOOGLE_PAY",
+    "status": "SUCCESS"
+  },
+  {
+    "paymentId": "103",
+    "timestamp": 1727764711,
+    "amount": 18.00,
+    "currency": "HUF",
+    "paymentType": "GOOGLE_PAY",
+    "status": "CANCELED"
+  },
+  {
+    "paymentId": "104",
+    "timestamp": 1727768946,
+    "amount": 978.00,
+    "currency": "EUR",
+    "paymentType": "GOOGLE_PAY",
+    "status": "PENDING"
+  },
+  {
+    "paymentId": "105",
+    "timestamp": 1727771476,
+    "amount": 235.00,
+    "currency": "CZK",
+    "paymentType": "CARD_ONLINE",
+    "status": "SUCCESS"
+  },
+  {
+    "paymentId": "106",
+    "timestamp": 1727764165,
+    "amount": 649.00,
+    "currency": "USD",
+    "paymentType": "CARD_ONLINE",
+    "status": "PENDING"
+  },
+  {
+    "paymentId": "107",
+    "timestamp": 1727778639,
+    "amount": 81.00,
+    "currency": "USD",
+    "paymentType": "CARD_ONLINE",
+    "status": "CANCELED"
+  },
+  {
+    "paymentId": "108",
+    "timestamp": 1727771741,
+    "amount": 909.00,
+    "currency": "CZK",
+    "paymentType": "GOOGLE_PAY",
+    "status": "PENDING"
+  },
+  {
+    "paymentId": "109",
+    "timestamp": 1727772296,
+    "amount": 190.00,
+    "currency": "EUR",
+    "paymentType": "BANK_TRANSFER",
+    "status": "SUCCESS"
+  },
+  {
+    "paymentId": "110",
+    "timestamp": 1727767970,
+    "amount": 589.00,
+    "currency": "CZK",
+    "paymentType": "BANK_TRANSFER",
+    "status": "SUCCESS"
+  },
+  {
+    "paymentId": "111",
+    "timestamp": 1727777662,
+    "amount": 8.00,
+    "currency": "CZK",
+    "paymentType": "CARD_ONLINE",
+    "status": "PENDING"
+  },
+  {
+    "paymentId": "112",
+    "timestamp": 1727784837,
+    "amount": 909.00,
+    "currency": "USD",
+    "paymentType": "BANK_TRANSFER",
+    "status": "CANCELED"
+  },
+  {
+    "paymentId": "113",
+    "timestamp": 1727780602,
+    "amount": 399.00,
+    "currency": "EUR",
+    "paymentType": "BANK_TRANSFER",
+    "status": "CANCELED"
+  },
+  {
+    "paymentId": "114",
+    "timestamp": 1727755784,
+    "amount": 307.00,
+    "currency": "HUF",
+    "paymentType": "CARD_ONLINE",
+    "status": "PENDING"
+  },
+  {
+    "paymentId": "115",
+    "timestamp": 1727759761,
+    "amount": 10.00,
+    "currency": "CZK",
+    "paymentType": "APPLE_PAY",
+    "status": "SUCCESS"
+  },
+  {
+    "paymentId": "116",
+    "timestamp": 1727766965,
+    "amount": 940.00,
+    "currency": "USD",
+    "paymentType": "APPLE_PAY",
+    "status": "CANCELED"
+  },
+  {
+    "paymentId": "117",
+    "timestamp": 1727763748,
+    "amount": 449.00,
+    "currency": "HUF",
+    "paymentType": "CARD_ONLINE",
+    "status": "PENDING"
+  },
+  {
+    "paymentId": "118",
+    "timestamp": 1727763748,
+    "amount": 175.00,
+    "currency": "EUR",
+    "paymentType": "CARD_ONLINE",
+    "status": "SUCCESS"
+  },
+  {
+    "paymentId": "119",
+    "timestamp": 1727771233,
+    "amount": 618.00,
+    "currency": "HUF",
+    "paymentType": "GOOGLE_PAY",
+    "status": "SUCCESS"
+  },
+  {
+    "paymentId": "120",
+    "timestamp": 1727761016,
+    "amount": 894.00,
+    "currency": "HUF",
+    "paymentType": "GOOGLE_PAY",
+    "status": "SUCCESS"
+  },
+  {
+    "paymentId": "121",
+    "timestamp": 1727759938,
+    "amount": 542.00,
+    "currency": "HUF",
+    "paymentType": "BANK_TRANSFER",
+    "status": "SUCCESS"
+  },
+  {
+    "paymentId": "122",
+    "timestamp": 1727770849,
+    "amount": 410.00,
+    "currency": "HUF",
+    "paymentType": "BANK_TRANSFER",
+    "status": "CANCELED"
+  },
+  {
+    "paymentId": "123",
+    "timestamp": 1727755147,
+    "amount": 202.00,
+    "currency": "USD",
+    "paymentType": "CARD_ONLINE",
+    "status": "PENDING"
+  },
+  {
+    "paymentId": "124",
+    "timestamp": 1727775257,
+    "amount": 270.00,
+    "currency": "HUF",
+    "paymentType": "BANK_TRANSFER",
+    "status": "SUCCESS"
+  },
+  {
+    "paymentId": "125",
+    "timestamp": 1727759438,
+    "amount": 177.00,
+    "currency": "CZK",
+    "paymentType": "APPLE_PAY",
+    "status": "SUCCESS"
+  },
+  {
+    "paymentId": "126",
+    "timestamp": 1727776744,
+    "amount": 209.00,
+    "currency": "USD",
+    "paymentType": "APPLE_PAY",
+    "status": "PENDING"
+  },
+  {
+    "paymentId": "127",
+    "timestamp": 1727760233,
+    "amount": 423.00,
+    "currency": "CZK",
+    "paymentType": "APPLE_PAY",
+    "status": "CANCELED"
+  },
+  {
+    "paymentId": "128",
+    "timestamp": 1727762850,
+    "amount": 767.00,
+    "currency": "USD",
+    "paymentType": "CARD_ONLINE",
+    "status": "CANCELED"
+  },
+  {
+    "paymentId": "129",
+    "timestamp": 1727782404,
+    "amount": 278.00,
+    "currency": "EUR",
+    "paymentType": "GOOGLE_PAY",
+    "status": "PENDING"
+  },
+  {
+    "paymentId": "130",
+    "timestamp": 1727781286,
+    "amount": 886.00,
+    "currency": "CZK",
+    "paymentType": "BANK_TRANSFER",
+    "status": "SUCCESS"
+  },
+  {
+    "paymentId": "131",
+    "timestamp": 1727756565,
+    "amount": 660.00,
+    "currency": "USD",
+    "paymentType": "APPLE_PAY",
+    "status": "PENDING"
+  },
+  {
+    "paymentId": "132",
+    "timestamp": 1727765215,
+    "amount": 35.00,
+    "currency": "HUF",
+    "paymentType": "GOOGLE_PAY",
+    "status": "CANCELED"
+  },
+  {
+    "paymentId": "133",
+    "timestamp": 1727760094,
+    "amount": 640.00,
+    "currency": "EUR",
+    "paymentType": "GOOGLE_PAY",
+    "status": "SUCCESS"
+  },
+  {
+    "paymentId": "134",
+    "timestamp": 1727764037,
+    "amount": 541.00,
+    "currency": "EUR",
+    "paymentType": "BANK_TRANSFER",
+    "status": "SUCCESS"
+  },
+  {
+    "paymentId": "135",
+    "timestamp": 1727778924,
+    "amount": 154.00,
+    "currency": "CZK",
+    "paymentType": "APPLE_PAY",
+    "status": "PENDING"
+  },
+  {
+    "paymentId": "136",
+    "timestamp": 1727760475,
+    "amount": 431.00,
+    "currency": "EUR",
+    "paymentType": "BANK_TRANSFER",
+    "status": "PENDING"
+  },
+  {
+    "paymentId": "137",
+    "timestamp": 1727776536,
+    "amount": 217.00,
+    "currency": "USD",
+    "paymentType": "CARD_ONLINE",
+    "status": "SUCCESS"
+  },
+  {
+    "paymentId": "138",
+    "timestamp": 1727762097,
+    "amount": 504.00,
+    "currency": "EUR",
+    "paymentType": "APPLE_PAY",
+    "status": "PENDING"
+  },
+  {
+    "paymentId": "139",
+    "timestamp": 1727775240,
+    "amount": 373.00,
+    "currency": "HUF",
+    "paymentType": "APPLE_PAY",
+    "status": "PENDING"
+  },
+  {
+    "paymentId": "140",
+    "timestamp": 1727774049,
+    "amount": 908.00,
+    "currency": "CZK",
+    "paymentType": "BANK_TRANSFER",
+    "status": "SUCCESS"
+  },
+  {
+    "paymentId": "141",
+    "timestamp": 1727785901,
+    "amount": 717.00,
+    "currency": "CZK",
+    "paymentType": "APPLE_PAY",
+    "status": "PENDING"
+  },
+  {
+    "paymentId": "142",
+    "timestamp": 1727784084,
+    "amount": 626.00,
+    "currency": "USD",
+    "paymentType": "APPLE_PAY",
+    "status": "PENDING"
+  },
+  {
+    "paymentId": "143",
+    "timestamp": 1727782724,
+    "amount": 992.00,
+    "currency": "HUF",
+    "paymentType": "GOOGLE_PAY",
+    "status": "SUCCESS"
+  },
+  {
+    "paymentId": "144",
+    "timestamp": 1727759868,
+    "amount": 630.00,
+    "currency": "CZK",
+    "paymentType": "APPLE_PAY",
+    "status": "SUCCESS"
+  },
+  {
+    "paymentId": "145",
+    "timestamp": 1727755863,
+    "amount": 351.00,
+    "currency": "CZK",
+    "paymentType": "GOOGLE_PAY",
+    "status": "CANCELED"
+  },
+  {
+    "paymentId": "146",
+    "timestamp": 1727756889,
+    "amount": 102.00,
+    "currency": "EUR",
+    "paymentType": "CARD_ONLINE",
+    "status": "PENDING"
+  },
+  {
+    "paymentId": "147",
+    "timestamp": 1727776315,
+    "amount": 486.00,
+    "currency": "CZK",
+    "paymentType": "APPLE_PAY",
+    "status": "SUCCESS"
+  },
+  {
+    "paymentId": "148",
+    "timestamp": 1727776502,
+    "amount": 399.00,
+    "currency": "HUF",
+    "paymentType": "GOOGLE_PAY",
+    "status": "SUCCESS"
+  },
+  {
+    "paymentId": "149",
+    "timestamp": 1727778193,
+    "amount": 816.00,
+    "currency": "HUF",
+    "paymentType": "CARD_ONLINE",
+    "status": "PENDING"
+  },
+  {
+    "paymentId": "150",
+    "timestamp": 1727767339,
+    "amount": 688.00,
+    "currency": "USD",
+    "paymentType": "CARD_ONLINE",
+    "status": "CANCELED"
+  },
+  {
+    "paymentId": "151",
+    "timestamp": 1727779272,
+    "amount": 346.00,
+    "currency": "CZK",
+    "paymentType": "CARD_ONLINE",
+    "status": "SUCCESS"
+  },
+  {
+    "paymentId": "152",
+    "timestamp": 1727770075,
+    "amount": 876.00,
+    "currency": "CZK",
+    "paymentType": "GOOGLE_PAY",
+    "status": "SUCCESS"
+  },
+  {
+    "paymentId": "153",
+    "timestamp": 1727786135,
+    "amount": 894.00,
+    "currency": "USD",
+    "paymentType": "APPLE_PAY",
+    "status": "SUCCESS"
+  },
+  {
+    "paymentId": "154",
+    "timestamp": 1727779574,
+    "amount": 58.00,
+    "currency": "CZK",
+    "paymentType": "CARD_ONLINE",
+    "status": "SUCCESS"
+  },
+  {
+    "paymentId": "155",
+    "timestamp": 1727777158,
+    "amount": 368.00,
+    "currency": "CZK",
+    "paymentType": "APPLE_PAY",
+    "status": "PENDING"
+  },
+  {
+    "paymentId": "156",
+    "timestamp": 1727783158,
+    "amount": 94.00,
+    "currency": "HUF",
+    "paymentType": "BANK_TRANSFER",
+    "status": "PENDING"
+  },
+  {
+    "paymentId": "157",
+    "timestamp": 1727763300,
+    "amount": 730.00,
+    "currency": "EUR",
+    "paymentType": "CARD_ONLINE",
+    "status": "SUCCESS"
+  },
+  {
+    "paymentId": "158",
+    "timestamp": 1727778404,
+    "amount": 792.00,
+    "currency": "EUR",
+    "paymentType": "CARD_ONLINE",
+    "status": "CANCELED"
+  },
+  {
+    "paymentId": "159",
+    "timestamp": 1727762896,
+    "amount": 9.00,
+    "currency": "CZK",
+    "paymentType": "APPLE_PAY",
+    "status": "SUCCESS"
+  },
+  {
+    "paymentId": "160",
+    "timestamp": 1727770450,
+    "amount": 289.00,
+    "currency": "CZK",
+    "paymentType": "GOOGLE_PAY",
+    "status": "SUCCESS"
+  },
+  {
+    "paymentId": "161",
+    "timestamp": 1727755954,
+    "amount": 519.00,
+    "currency": "USD",
+    "paymentType": "GOOGLE_PAY",
+    "status": "CANCELED"
+  },
+  {
+    "paymentId": "162",
+    "timestamp": 1727781600,
+    "amount": 891.00,
+    "currency": "HUF",
+    "paymentType": "APPLE_PAY",
+    "status": "PENDING"
+  },
+  {
+    "paymentId": "163",
+    "timestamp": 1727781825,
+    "amount": 74.00,
+    "currency": "EUR",
+    "paymentType": "CARD_ONLINE",
+    "status": "SUCCESS"
+  },
+  {
+    "paymentId": "164",
+    "timestamp": 1727774905,
+    "amount": 648.00,
+    "currency": "EUR",
+    "paymentType": "APPLE_PAY",
+    "status": "SUCCESS"
+  },
+  {
+    "paymentId": "165",
+    "timestamp": 1727787005,
+    "amount": 705.00,
+    "currency": "EUR",
+    "paymentType": "CARD_ONLINE",
+    "status": "PENDING"
+  },
+  {
+    "paymentId": "166",
+    "timestamp": 1727786646,
+    "amount": 72.00,
+    "currency": "USD",
+    "paymentType": "APPLE_PAY",
+    "status": "SUCCESS"
+  },
+  {
+    "paymentId": "167",
+    "timestamp": 1727780148,
+    "amount": 300.00,
+    "currency": "EUR",
+    "paymentType": "BANK_TRANSFER",
+    "status": "SUCCESS"
+  },
+  {
+    "paymentId": "168",
+    "timestamp": 1727776184,
+    "amount": 62.00,
+    "currency": "CZK",
+    "paymentType": "GOOGLE_PAY",
+    "status": "PENDING"
+  },
+  {
+    "paymentId": "169",
+    "timestamp": 1727769983,
+    "amount": 587.00,
+    "currency": "EUR",
+    "paymentType": "APPLE_PAY",
+    "status": "CANCELED"
+  },
+  {
+    "paymentId": "170",
+    "timestamp": 1727783023,
+    "amount": 353.00,
+    "currency": "CZK",
+    "paymentType": "APPLE_PAY",
+    "status": "SUCCESS"
+  },
+  {
+    "paymentId": "171",
+    "timestamp": 1727781060,
+    "amount": 116.00,
+    "currency": "HUF",
+    "paymentType": "APPLE_PAY",
+    "status": "SUCCESS"
+  },
+  {
+    "paymentId": "172",
+    "timestamp": 1727768472,
+    "amount": 253.00,
+    "currency": "CZK",
+    "paymentType": "GOOGLE_PAY",
+    "status": "CANCELED"
+  },
+  {
+    "paymentId": "173",
+    "timestamp": 1727783476,
+    "amount": 983.00,
+    "currency": "HUF",
+    "paymentType": "APPLE_PAY",
+    "status": "PENDING"
+  },
+  {
+    "paymentId": "174",
+    "timestamp": 1727764505,
+    "amount": 738.00,
+    "currency": "EUR",
+    "paymentType": "APPLE_PAY",
+    "status": "PENDING"
+  },
+  {
+    "paymentId": "175",
+    "timestamp": 1727765964,
+    "amount": 923.00,
+    "currency": "HUF",
+    "paymentType": "CARD_ONLINE",
+    "status": "SUCCESS"
+  },
+  {
+    "paymentId": "176",
+    "timestamp": 1727772773,
+    "amount": 458.00,
+    "currency": "HUF",
+    "paymentType": "GOOGLE_PAY",
+    "status": "SUCCESS"
+  },
+  {
+    "paymentId": "177",
+    "timestamp": 1727755734,
+    "amount": 145.00,
+    "currency": "CZK",
+    "paymentType": "BANK_TRANSFER",
+    "status": "PENDING"
+  },
+  {
+    "paymentId": "178",
+    "timestamp": 1727774204,
+    "amount": 573.00,
+    "currency": "HUF",
+    "paymentType": "GOOGLE_PAY",
+    "status": "CANCELED"
+  },
+  {
+    "paymentId": "179",
+    "timestamp": 1727785063,
+    "amount": 158.00,
+    "currency": "EUR",
+    "paymentType": "CARD_ONLINE",
+    "status": "PENDING"
+  },
+  {
+    "paymentId": "180",
+    "timestamp": 1727783658,
+    "amount": 478.00,
+    "currency": "EUR",
+    "paymentType": "GOOGLE_PAY",
+    "status": "PENDING"
+  },
+  {
+    "paymentId": "181",
+    "timestamp": 1727771873,
+    "amount": 419.00,
+    "currency": "CZK",
+    "paymentType": "APPLE_PAY",
+    "status": "CANCELED"
+  },
+  {
+    "paymentId": "182",
+    "timestamp": 1727785797,
+    "amount": 69.00,
+    "currency": "CZK",
+    "paymentType": "GOOGLE_PAY",
+    "status": "SUCCESS"
+  },
+  {
+    "paymentId": "183",
+    "timestamp": 1727773041,
+    "amount": 38.00,
+    "currency": "HUF",
+    "paymentType": "BANK_TRANSFER",
+    "status": "SUCCESS"
+  },
+  {
+    "paymentId": "184",
+    "timestamp": 1727781553,
+    "amount": 277.00,
+    "currency": "EUR",
+    "paymentType": "APPLE_PAY",
+    "status": "SUCCESS"
+  },
+  {
+    "paymentId": "185",
+    "timestamp": 1727758480,
+    "amount": 929.00,
+    "currency": "HUF",
+    "paymentType": "APPLE_PAY",
+    "status": "PENDING"
+  },
+  {
+    "paymentId": "186",
+    "timestamp": 1727781342,
+    "amount": 517.00,
+    "currency": "HUF",
+    "paymentType": "GOOGLE_PAY",
+    "status": "PENDING"
+  },
+  {
+    "paymentId": "187",
+    "timestamp": 1727757955,
+    "amount": 856.00,
+    "currency": "HUF",
+    "paymentType": "CARD_ONLINE",
+    "status": "PENDING"
+  },
+  {
+    "paymentId": "188",
+    "timestamp": 1727777799,
+    "amount": 425.00,
+    "currency": "CZK",
+    "paymentType": "GOOGLE_PAY",
+    "status": "SUCCESS"
+  },
+  {
+    "paymentId": "189",
+    "timestamp": 1727758045,
+    "amount": 397.00,
+    "currency": "USD",
+    "paymentType": "APPLE_PAY",
+    "status": "CANCELED"
+  },
+  {
+    "paymentId": "190",
+    "timestamp": 1727763570,
+    "amount": 649.00,
+    "currency": "CZK",
+    "paymentType": "APPLE_PAY",
+    "status": "PENDING"
+  },
+  {
+    "paymentId": "191",
+    "timestamp": 1727775225,
+    "amount": 262.00,
+    "currency": "USD",
+    "paymentType": "BANK_TRANSFER",
+    "status": "CANCELED"
+  },
+  {
+    "paymentId": "192",
+    "timestamp": 1727761397,
+    "amount": 927.00,
+    "currency": "USD",
+    "paymentType": "BANK_TRANSFER",
+    "status": "SUCCESS"
+  },
+  {
+    "paymentId": "193",
+    "timestamp": 1727777411,
+    "amount": 899.00,
+    "currency": "EUR",
+    "paymentType": "BANK_TRANSFER",
+    "status": "CANCELED"
+  },
+  {
+    "paymentId": "194",
+    "timestamp": 1727768173,
+    "amount": 387.00,
+    "currency": "CZK",
+    "paymentType": "GOOGLE_PAY",
+    "status": "PENDING"
+  },
+  {
+    "paymentId": "195",
+    "timestamp": 1727781615,
+    "amount": 555.00,
+    "currency": "CZK",
+    "paymentType": "CARD_ONLINE",
+    "status": "PENDING"
+  },
+  {
+    "paymentId": "196",
+    "timestamp": 1727776839,
+    "amount": 504.00,
+    "currency": "USD",
+    "paymentType": "GOOGLE_PAY",
+    "status": "PENDING"
+  },
+  {
+    "paymentId": "197",
+    "timestamp": 1727767294,
+    "amount": 686.00,
+    "currency": "CZK",
+    "paymentType": "CARD_ONLINE",
+    "status": "PENDING"
+  },
+  {
+    "paymentId": "198",
+    "timestamp": 1727777785,
+    "amount": 902.00,
+    "currency": "USD",
+    "paymentType": "APPLE_PAY",
+    "status": "CANCELED"
+  },
+  {
+    "paymentId": "199",
+    "timestamp": 1727765822,
+    "amount": 666.00,
+    "currency": "USD",
+    "paymentType": "GOOGLE_PAY",
+    "status": "CANCELED"
+  },
+  {
+    "paymentId": "200",
+    "timestamp": 1727772551,
+    "amount": 120.00,
+    "currency": "HUF",
+    "paymentType": "CARD_ONLINE",
+    "status": "CANCELED"
+  }
+]
